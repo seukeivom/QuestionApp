@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuestionApp</string>
+    <string name="create_new_account">Create a new Account</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="create_account">Create Account</string>
+    <string name="log_out">Log out</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="already_have_account">Already have Account</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="login">LOGIN</string>
+    <string name="welcome">MCA Question Bank</string>
+    <string name="enter_message">Enter message</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
